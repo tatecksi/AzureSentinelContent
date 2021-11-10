@@ -1,5 +1,5 @@
 Table,rowNumber,ColumnName,ColumnValue
-"Weather",1, "TimeGenerated", "2015-06-30T00:00:00Z"
+"Weather",1, TimeGenerated, 2015-06-30T00:00:00Z
 "Weather",1, "Location", "Houston"
 "Weather",1, "Low", "72"
 "Weather",1, "High", "96"
