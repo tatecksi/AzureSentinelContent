@@ -8,4 +8,4 @@ Table,rowNumber,ColumnName,ColumnValue,
 "Weather",2, "Location", "Houston",
 "Weather",2, "Low", "70",
 "Weather",2, "High", "90",
-"Weather",2, "Rain", "2.23",
+"Weather",2, "Rain", "2.23"
