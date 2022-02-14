@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "displayName": "(Preview) TI map URL entity to SecurityAlert data",
+                "displayName": "(CICD Demo) TI map URL entity to SecurityAlert data",
                 "description": "Identifies a match in SecurityAlert data from any URL IOC from TI",
                 "severity": "Medium",
                 "enabled": true,
