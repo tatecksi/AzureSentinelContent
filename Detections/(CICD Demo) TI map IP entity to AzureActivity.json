@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "displayName": "(Preview) TI map IP entity to AzureActivity",
+                "displayName": "(CICD Demo) TI map IP entity to AzureActivity",
                 "description": "Identifies a match in AzureActivity from any IP IOC from TI",
                 "severity": "Medium",
                 "enabled": true,
