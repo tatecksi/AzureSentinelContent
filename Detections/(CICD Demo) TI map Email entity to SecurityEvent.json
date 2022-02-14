@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "displayName": "(Preview) TI map Email entity to SecurityEvent",
+                "displayName": "(CICD Demo) TI map Email entity to SecurityEvent",
                 "description": "Identifies a match in SecurityEvent table from any Email IOC from TI",
                 "severity": "Medium",
                 "enabled": true,
