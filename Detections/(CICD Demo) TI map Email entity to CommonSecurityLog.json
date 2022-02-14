@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "displayName": "(Preview) TI map Email entity to CommonSecurityLog",
+                "displayName": "(CICD Demo) TI map Email entity to CommonSecurityLog",
                 "description": "Identifies a match in CommonSecurityLog table from any Email IOC from TI",
                 "severity": "Medium",
                 "enabled": true,
