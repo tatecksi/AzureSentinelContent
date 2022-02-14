@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "displayName": "(Preview) TI map URL entity to AuditLogs",
+                "displayName": "(CICD Demo) TI map URL entity to AuditLogs",
                 "description": "Identifies a match in AuditLogs from any URL IOC from TI",
                 "severity": "Medium",
                 "enabled": true,
