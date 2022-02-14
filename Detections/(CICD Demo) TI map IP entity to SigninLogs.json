@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "displayName": "(Preview) TI map IP entity to SigninLogs",
+                "displayName": "(CICD Demo) TI map IP entity to SigninLogs",
                 "description": "Identifies a match in SigninLogs from any IP IOC from TI",
                 "severity": "Medium",
                 "enabled": true,
