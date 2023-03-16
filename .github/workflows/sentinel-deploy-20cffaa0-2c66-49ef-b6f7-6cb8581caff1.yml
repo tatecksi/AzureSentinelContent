@@ -23,10 +23,16 @@ jobs:
     env:
       resourceGroupName: 'tatecksi_rg'
       workspaceName: 'tatecksi'
+      workspaceId: '2042f459-190e-4041-824c-dc372079cfdc'
       directory: '${{ github.workspace }}'
       cloudEnv: 'AzureCloud'
       creds: ${{ secrets.AZURE_SENTINEL_CREDENTIALS_20cffaa02c6649efb6f76cb8581caff1 }}
-      contentTypes: 'AnalyticsRule'
+      contentTypes: 'AnalyticsRule,HuntingQuery,AutomationRule,Parser,Playbook,Workbook'
+      branch: 'main'
+      sourceControlId: '20cffaa0-2c66-49ef-b6f7-6cb8581caff1'
+      rootDirectory: '${{ github.workspace }}'
+      githubAuthToken: ${{ secrets.GITHUB_TOKEN }}
+      smartDeployment: 'true'
 
     steps:
     - name: Login to Azure (Attempt 1)
