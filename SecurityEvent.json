@@ -1,0 +1,47 @@
+[
+{
+    "TimeGenerated": "$currentTime",
+    "Computer": "DC02.seccxp.ninja",
+    "SourceSystem": "OpsManager",
+    "Account": "SAPUser",
+    "AccountType": "User",
+    "EventSourceName": "Microsoft-Windows-Security-Auditing",
+    "Channel": "Security",
+    "EventID": 4624,
+    "Activity": "4624 - An account was successfully logged on.",
+    "LogonType":10,
+    "ProcessName": "svchost.exe",
+    "LogonTypeName":"10 - RemoteInteractive",
+    "IpAddress": "220.245.131.215"
+},
+{
+    "TimeGenerated": "$currentTime",
+    "Computer": "ADFS01.seccxp.ninja",
+    "SourceSystem": "OpsManager",
+    "Account": "SAPUser",
+    "AccountType": "User",
+    "EventSourceName": "Microsoft-Windows-Security-Auditing",
+    "Channel": "Security",
+    "EventID": 4624,
+    "Activity": "4624 - An account was successfully logged on.",
+    "LogonType":10,
+    "ProcessName": "svchost.exe",
+    "LogonTypeName":"10 - RemoteInteractive",
+    "IpAddress": "220.245.131.215"
+},
+{
+    "TimeGenerated": "$currentTime",
+    "Computer": "SAPVM",
+    "SourceSystem": "OpsManager",
+    "Account": "SAPUser",
+    "AccountType": "User",
+    "EventSourceName": "Microsoft-Windows-Security-Auditing",
+    "Channel": "Security",
+    "EventID": 4624,
+    "Activity": "4624 - An account was successfully logged on.",
+    "LogonType":2,
+    "ProcessName": "svchost.exe",
+    "LogonTypeName":"2 - Interactive",
+    "IpAddress": "220.245.131.215"
+}
+]
