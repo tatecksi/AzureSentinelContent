@@ -1,0 +1,4 @@
+SourceSystem,Provider,Channel,Computer,ProcessName,EventID,Account,AccountType,EventSourceName,Activity,LogonType,LogonTypeName,IpAddress
+OpsManager,Microsoft-Windows-Security-Auditing,Security,SAPVM,svchost.exe,4624,SAPUser,User,Microsoft-Windows-Security-Auditing,4624 - An account was successfully logged on.,10,10 - RemoteInteractive,220.245.131.215
+OpsManager,Microsoft-Windows-Security-Auditing,Security,SAPVM,svchost.exe,4624,SAPUser,User,Microsoft-Windows-Security-Auditing,4624 - An account was successfully logged on.,10,10 - RemoteInteractive,220.245.131.215
+OpsManager,Microsoft-Windows-Security-Auditing,Security,SAPVM,svchost.exe,4624,SAPUser,User,Microsoft-Windows-Security-Auditing,4624 - An account was successfully logged on.,2,10 - RemoteInteractive,2 - Interactive
