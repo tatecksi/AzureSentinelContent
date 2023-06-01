@@ -1,0 +1,25 @@
+
+Potential Remote Desktop Tunneling
+
+Multiple RDP connections from Single System
+
+New user created and added to the built-in administ
+
+
+Palo Alto Threat signatures from Unusual IP addresses
+
+Palo Alto - possible internal to external port scanning
+
+
+DCE-Ingestion-Sentinel
+8cf634a6-d46b-4500-97d0-c426b140e79f
+
+vnQ8Q~_gBNrui0QBzXJeWY2lKfzEo6YIsZK9Wdcr
+
+
+Disable-AzContextAutosave -Scope Process
+# Connect to Azure with system-assigned managed identity
+$AzureContext = (Connect-AzAccount -Identity).context
+# set and store context
+$AzureContext = Set-AzContext -SubscriptionName $AzureContext.Subscription -DefaultProfile $AzureContext
+
