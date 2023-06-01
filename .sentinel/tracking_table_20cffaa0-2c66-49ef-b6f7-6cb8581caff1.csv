@@ -1,9 +1,9 @@
 FileName, CommitSha
+Detections/(CICD Demo) TI map Email entity to SecurityEvent.json,870d5b8c35a14cf5952e51e6ac381639da90ea8b
+Detections/(CICD Demo) TI map URL entity to SecurityAlert data.json,73244fd41990616750e3b556732ad7eb33e5bc0c
 Detections/(CICD Demo) TI map URL entity to AuditLogs.json,92eb26a7d65c55d9485628bf1fd357fc880303cd
-Detections/(CICD Demo) TI map Email entity to CommonSecurityLog.json,cf8418622449765dd1d86dc5c17c1e472540a872
+Detections/(CICD Demo) TI map IP entity to SigninLogs.json,4637528de439ce74f835238008247cedef20399c
+Hunting/(CICD) ProofpointPODLargeOutboundEmails.json,880089eda2dd1d7df5de6a27c8124a700ffde61d
 Detections/(CICD Demo) TI map Domain entity to SecurityAlert.json,5dcd682750ebfaa0a4e289def630e1cd2826f009
 Detections/(CICD Demo) TI map IP entity to AzureActivity.json,5ce48ec46abf33466f6b0e6748ec5853036bf36b
-Detections/(CICD Demo) TI map URL entity to SecurityAlert data.json,73244fd41990616750e3b556732ad7eb33e5bc0c
-Detections/(CICD Demo) TI map Email entity to SecurityEvent.json,870d5b8c35a14cf5952e51e6ac381639da90ea8b
-Hunting/(CICD) ProofpointPODLargeOutboundEmails.json,880089eda2dd1d7df5de6a27c8124a700ffde61d
-Detections/(CICD Demo) TI map IP entity to SigninLogs.json,4637528de439ce74f835238008247cedef20399c
+Detections/(CICD Demo) TI map Email entity to CommonSecurityLog.json,cf8418622449765dd1d86dc5c17c1e472540a872
