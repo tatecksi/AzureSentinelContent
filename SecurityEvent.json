@@ -28,7 +28,7 @@
     "IpAddress": "220.245.131.215"
 },
 {
-    "Computer": "SAPVM",
+    "Computer": "vhcala4hci",
     "SourceSystem": "OpsManager",
     "Account": "SAPUser",
     "AccountType": "User",
@@ -42,7 +42,7 @@
     "IpAddress": "220.245.131.215"
 },
 {
-    "Computer": "SAPVM",
+    "Computer": "vhcala4hci",
     "SourceSystem": "OpsManager",
     "Account": "SAPUser",
     "AccountType": "User",
@@ -55,14 +55,14 @@
     "LogonTypeName":"2 - Interactive",
     "IpAddress": "220.245.131.215",
     "SubjectUserSid":"S-1-5-20",
-    "TargetAccount":"NewUser",
+    "TargetAccount":"NewSAPUser",
     "TargetSid":"S-2-442-DG",
     "SubjectAccount":"SAPUser",
     "SubjectUserSid": "234t643525435",
     "EventData":"<MemberSid>18640</MemberSid>"
 },
 {
-    "Computer": "SAPVM",
+    "Computer": "vhcala4hci",
     "SourceSystem": "OpsManager",
     "Account": "SAPUser",
     "AccountType": "User",
@@ -75,7 +75,7 @@
     "LogonTypeName":"2 - Interactive",
     "IpAddress": "220.245.131.215",
     "SubjectUserSid":"S-1-5-20",
-    "TargetAccount":"NewUser",
+    "TargetAccount":"NewSAPUser",
     "TargetSid":"S-1-5-32-544",
     "SubjectAccount":"SAPUser",
     "SubjectUserSid": "234t643525435",
