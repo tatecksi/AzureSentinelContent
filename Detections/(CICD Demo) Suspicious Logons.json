@@ -14,8 +14,8 @@
             "kind": "Scheduled",
             "apiVersion": "2023-12-01-preview",
             "properties": {
-				"alertRuleTemplateName":"CICD-Suspicious-logons",
-		 		"templateVersion": "2.9.9",
+				"alertRuleTemplateName":"78422ef2-62bf-48ca-9bab-12bere334r55",
+		 		"templateVersion": "1.2.9",
                 "displayName": "(CICD) Suspicious logons",
                 "description": "",
                 "severity": "Medium",
