@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "templateVersion": "1.9.9",
+                "templateVersion": "2.9.9",
                 "displayName": "(CICD Demo) TI map Domain entity to SecurityAlert",
                 "description": "Identifies a match in SecurityAlert table from any Domain IOC from TI",
                 "severity": "Medium",
