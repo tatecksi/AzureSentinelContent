@@ -2,3 +2,4 @@
   "extensions": {
     "MicrosoftSecurity": "br:mcr.microsoft.com/bicep/extensions/microsoftsecurity:v1"
   }
+}
