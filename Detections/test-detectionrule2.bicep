@@ -6,7 +6,7 @@ resource detectionRule 'Microsoft.Security/detectionRules@2026-01-01-preview' = 
   displayName: 'test bicep detection rule2'
   isEnabled: true
   queryCondition: {
-    queryText: 'DeviceEvents\r\n| take 10'
+    queryText: 'DeviceEvents\r\n| take 2'
   }
   schedule: {
     period: '24H'
